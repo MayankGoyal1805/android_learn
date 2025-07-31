@@ -3,11 +3,13 @@
     <CLASSES>
       <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.1/kotlinNotebook/android_learn.a0849ca/kernels/0.12.0-452/kotlin-jupyter-ide-classpath-shadowed-jar/kotlin-jupyter-ide-classpath-shadowed-0.12.0-452.jar" />
       <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.1/kotlinNotebook/android_learn.eb6040cd/kernels/0.12.0-452/kotlin-jupyter-ide-classpath-shadowed-jar/kotlin-jupyter-ide-classpath-shadowed-0.12.0-452.jar" />
+      <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.1/kotlinNotebook/android_learn.eb6040cd/kernels/0.13.0-485-1/kotlin-jupyter-ide-classpath-shadowed-jar/kotlin-jupyter-ide-classpath-shadowed-0.13.0-485-1.jar" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.1/kotlinNotebook/android_learn.a0849ca/kernels/0.12.0-452/kotlin-jupyter-script-classpath-shadowed-sources-jar/kotlin-jupyter-script-classpath-shadowed-0.12.0-452-sources.jar" />
       <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.1/kotlinNotebook/android_learn.eb6040cd/kernels/0.12.0-452/kotlin-jupyter-script-classpath-shadowed-sources-jar/kotlin-jupyter-script-classpath-shadowed-0.12.0-452-sources.jar" />
+      <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2025.1/kotlinNotebook/android_learn.eb6040cd/kernels/0.13.0-485-1/kotlin-jupyter-script-classpath-shadowed-sources-jar/kotlin-jupyter-script-classpath-shadowed-0.13.0-485-1-sources.jar" />
     </SOURCES>
   </library>
 </component>
